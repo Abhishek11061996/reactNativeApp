@@ -5,7 +5,7 @@ import { Home } from '../screens/Home';
 
 const Tab = createBottomTabNavigator();
 import { NavigationContainer } from '@react-navigation/native';
-import { Dashboard } from '../screens/Dashboard';
+
 import { StackNavigation } from './StackNavigation';
 export const BottomNavigation=({navigation})=>{
   return (

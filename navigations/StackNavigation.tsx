@@ -6,9 +6,10 @@ import {
   HeaderBackButton,
 } from '@react-navigation/stack';
 import { Home } from '../screens/Home';
-import { Dashboard } from '../screens/Dashboard';
+
 import { About } from '../screens/About';
 import { Profile } from '../screens/Profile';
+import { Dashboard } from '../screens/dashboard';
 
 
 const Stack = createStackNavigator();
